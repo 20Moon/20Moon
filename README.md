@@ -1,6 +1,10 @@
 <h1 align="center">Moin, I`m Fatih 🐸✌️</h1>
 <h3 align="center">A student at the Flensburg University of Applied Sciences</h3>
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFqdzV6b2I4a3EzbjZndmFsNHNzZWxpdGZuZjQyNG11dW0yeTR0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZdilASsUTJW4o/200.webp" alt="GIF" />
+</p>
+
 - 🔭 I’m currently working on **M-O-O-N**
 - 🌱 I’m currently learning **React**
 
